@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayuk11/DiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayuk11/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/aayuk11/DiscordBot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
