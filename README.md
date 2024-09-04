@@ -5,5 +5,4 @@ It replies on sending messages and also has /ping which replies with pong.</h3>
 <h2>Technology Used</h2>
 <h3>Node.js</h3>
 <h2>Demo :</h2>
-<video>
-  <source src="bot.mp4" type="video/mp4"></video>
+https://github.com/user-attachments/assets/ac360bfa-aa64-4e43-b57d-1f6695399bb6
